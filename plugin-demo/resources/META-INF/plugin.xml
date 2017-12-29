@@ -32,8 +32,8 @@
     <!-- Add your actions here -->
     <group id="MyPlugins.SayHello" text="_SayHello" description="SayHelloDemo">
       <add-to-group group-id="MainMenu" anchor="last"/>
-      <action id="MyPlugins.sayHello.HelloWorldAction"
-              class="com.chen.SayHelloAction"
+      <action id="MyPlugins.PluginDemoAction"
+              class="com.chen.PluginDemoAction"
               text="_Hello world" description="Hello world from Chen"/>
     </group>
   </actions>

@@ -6,7 +6,7 @@ import com.intellij.openapi.actionSystem.PlatformDataKeys;
 import com.intellij.openapi.project.Project;
 import com.intellij.openapi.ui.Messages;
 
-public class SayHelloAction extends AnAction {
+public class PluginDemoAction extends AnAction {
 
     @Override
     public void actionPerformed(AnActionEvent event) {
